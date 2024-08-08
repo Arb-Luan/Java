@@ -1,0 +1,2 @@
+This little project is a comparison between a custom class MyIO and 
+a standard class Scanner.
